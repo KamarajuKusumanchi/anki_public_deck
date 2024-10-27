@@ -152,6 +152,16 @@
             "guid": "OnxJ:Hkv>3",
             "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Is tomato a fruit or vegetable?",
+                "Fruit"
+            ],
+            "guid": "LI({z-JVS6",
+            "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
+            "tags": []
         }
     ],
     "reviewLimit": null,
