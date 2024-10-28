@@ -242,6 +242,36 @@
                     "guid": "LI({z-JVS6",
                     "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the meaning of gable?",
+                        "the top end of the&nbsp;wall&nbsp;of a&nbsp;building, in the&nbsp;shape&nbsp;of a&nbsp;triangle, where it&nbsp;meets&nbsp;the&nbsp;sloping&nbsp;parts&nbsp;of a&nbsp;roof<br><br>Ref:-<br><ul><li><a href=\"https://dictionary.cambridge.org/us/dictionary/english/gable\">https://dictionary.cambridge.org/us/dictionary/english/gable</a></li><li><a href=\"https://en.wikipedia.org/wiki/Gable\">https://en.wikipedia.org/wiki/Gable</a><br></li></ul>"
+                    ],
+                    "guid": "z*Dgw`TqtX",
+                    "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is the meaning of \"bald fact\"?",
+                        "A \"bald fact\" is a statement that is stated without any qualification or embellishment. It is a straightforward statement that is often used to emphasize a point.<br><br>Ex:&nbsp;The bald truth is he's just not happy<br><br>Ref:&nbsp;<a href=\"https://www.thesaurus.net/bald%20fact\">https://www.thesaurus.net/bald fact</a>"
+                    ],
+                    "guid": "ued0c96^h?",
+                    "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "What is a \"musket\"?",
+                        "a&nbsp;gun&nbsp;with a&nbsp;long&nbsp;barrel, used in the past<br><br>See also:<br><ul><li><a href=\"https://dictionary.cambridge.org/us/dictionary/english/musket\">https://dictionary.cambridge.org/us/dictionary/english/musket</a>&nbsp;- contains the picture of a musket.<br></li></ul>"
+                    ],
+                    "guid": "Is_?{NA!I~",
+                    "note_model_uuid": "f7e7ca3c-942a-11ef-9852-19769ddbf930",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
