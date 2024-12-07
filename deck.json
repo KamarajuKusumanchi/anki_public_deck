@@ -300,6 +300,16 @@
                     "guid": "sDaaf/zO!_",
                     "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "The {{c1::Groom of the Stool}} was responsible for tending the king during his ablutions and excretions.",
+                        "<div style=\"text-align: left;\">Ref:</div><ul>\n  <li><a href=\"https://history.howstuffworks.com/european-history/groom-stool.htm\">https://history.howstuffworks.com/european-history/groom-stool.htm</a></li>\n  <li><a href=\"https://allthatsinteresting.com/groom-of-the-stool\">https://allthatsinteresting.com/groom-of-the-stool</a><br></li>\n  <li><a href=\"https://en.wikipedia.org/wiki/Groom_of_the_Stool\">https://en.wikipedia.org/wiki/Groom_of_the_Stool</a><br></li>\n</ul>"
+                    ],
+                    "guid": "E{w%f0n>Q&",
+                    "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+                    "tags": []
                 }
             ],
             "reviewLimit": null,
