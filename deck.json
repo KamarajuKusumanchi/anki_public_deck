@@ -559,6 +559,26 @@
             "guid": "EAAT$FE_ln",
             "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The year {{c1::46 BC}} is the {{c2::longest}} calendar year in recorded history. It had {{c3::445}} days and was nicknamed the {{c4::annus confusionis}} (“{{c5::Year of Confusion}}”).<br>",
+                "Ref:- https://en.wikipedia.org/wiki/46_BC"
+            ],
+            "guid": "Id0{f6i`kB",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "The transistor was successfully demonstrated on {{c1::December 23, 1947::date}} at {{c2::Bell Laboratories::company}} in {{c3::Murray Hill, New Jersey::city, state}}. {{c2::Bell Labs::company}} was the research arm of {{c4::American Telephone and Telegraph (AT&amp;T)::company}}. The three individuals credited with the invention of the transistor were {{c5::William Shockley}}, {{c6::John Bardeen}} and {{c7::Walter Brattain}}.<br>",
+                "Ref:- https://en.wikipedia.org/wiki/History_of_the_transistor"
+            ],
+            "guid": "l7E7k,ys3q",
+            "note_model_uuid": "56671b6a-b205-11ef-9801-d0abd5c278c3",
+            "tags": []
         }
     ],
     "reviewLimit": null,
